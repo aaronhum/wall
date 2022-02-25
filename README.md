@@ -1,10 +1,6 @@
-# Unit Converter
+# the wall
 
-This project was created as a simple unit converter to convert units of measure to other units of measure. It was created using React.js and components from Carbon Design System.
-
-## Netlify
-
-The most recent build is available here via Netlify: https://laughing-darwin-043610.netlify.app/
+This app was developed for fun as an attempt to replicate a "social media like" wall with a distributed database.
 
 ## Development
 
